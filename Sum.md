@@ -1,2 +1,2 @@
 #  Contents
-*[ReadMe](READMD.md)
+*[ReadMe](README.md)
